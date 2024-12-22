@@ -1,0 +1,6544 @@
+{
+    "width": 49,
+    "height": 33,
+    "default_value": {
+        "char": "\u2588",
+        "name": "wall"
+    },
+    "matrix": [
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": ">",
+                "name": "start"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u001b[31m\u2588\u001b[39m",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": " ",
+                "name": "path"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ],
+        [
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            },
+            {
+                "char": "\u2588",
+                "name": "wall"
+            }
+        ]
+    ]
+}

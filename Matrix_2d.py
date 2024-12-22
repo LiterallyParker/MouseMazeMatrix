@@ -163,6 +163,6 @@ if __name__ == "__main__":
 
     M2 = Matrix_2d()
     M2.load_from_file("matrix")
-    M2.print_details()
+    M2.print_details()   
     if len(M2.matrix):
         M2.print()

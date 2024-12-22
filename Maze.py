@@ -1,6 +1,7 @@
 from Matrix_2d import Matrix_2d
 import os
 import random
+import json
 
 class Sprite:
     def __init__(self, char, name):
@@ -9,6 +10,20 @@ class Sprite:
 
     def __str__(self):
         return self.char
+    
+    def to_dict(self):
+        return {
+            'char':self.char,
+            'name':self.name
+        }
+    
+
+class SpriteEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, Sprite):
+            return obj.to_dict()
+        return super().default(obj)
+
 class Maze(Matrix_2d):
     def __init__(self, width, height):
         self.wall = Sprite("█", "wall")
@@ -60,6 +75,16 @@ class Maze(Matrix_2d):
         self.fill_row(row_index=0, value=Sprite("█", 1))
         self.fill_column(column_index=self.width - 1, value=Sprite("█", 1))
         self.fill_row(row_index=self.height - 1, value=Sprite("█", 1))
+
+    def save_to_file(self, filename):
+        DATA = {
+            "width": self.width,
+            "height": self.height,
+            "default_value": self.default_value,
+            "matrix": self.matrix
+        }
+        with open(f"{filename}.json", 'w') as file:
+            json.dump(DATA, file, indent=4, cls=SpriteEncoder)
 
     def __str__(self):
         return self.to_string()
