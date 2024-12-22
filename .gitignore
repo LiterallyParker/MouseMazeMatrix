@@ -1,0 +1,50 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dylib
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# IDE/Editor-specific files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.swp  # Vim
+*~
+
+# PyCharm
+.idea/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.bak
+*.swp
+
+# Test coverage reports
+.coverage
+*.coveragerc
+
+# Git-related files
+.git/
+.gitmodules
+
+# Others
+*.sqlite  # SQLite databases
