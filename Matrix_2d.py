@@ -1,8 +1,7 @@
-import os
-import time
+import json
 
 class Matrix_2d:
-    def __init__(self, width: int, height: int, default_value=None):
+    def __init__(self, width: int = 0, height: int = 0, default_value=None):
         self.width = width
         self.height = height
         self.default_value = default_value
@@ -18,7 +17,7 @@ class Matrix_2d:
     
     def set(self, matrix):
         self.matrix = matrix
-    def set_value(self, x: int, y: int, value=None):
+    def set_value(self, x: int, y: int, value = None):
         if 0 <= x < self.width and 0 <= y < self.width:
             self.matrix[y][x] = self.default_value 
             if value is not None:
@@ -26,10 +25,15 @@ class Matrix_2d:
         else:
             print (f"Attempted to set a value outside of the matrix.\nValid ranges: ( x: (0-{self.width - 1}), y: (0-{self.height - 1}) )\nAttempt: ({x}, {y})")
     
-    def fill(self, value):
+    def fill(self, value = None):
         self.matrix = [[value for _ in range(self.width)] for _ in range(self.height)]
     def clear(self):
         self.fill(self.default_value)
+    def reset(self):
+        self.matrix = []
+        self.default_value = None
+        self.height = 0
+        self.width = 0
 
     def print(self):
         for row in self.matrix:
@@ -45,23 +49,11 @@ class Matrix_2d:
             strings.append(row_string)
         return "\n".join(strings)
 
-    def rotate(self, dir: int = 1):
-        """
-        Rotates matrix 90 degrees, clockwise or counterclockwise
-
-        {param} dir: 1 or -1, 1 being clockwise
-        """
-        if dir not in (1, -1):
-            print("Rotate Error: incorrect direction parameter.")
-            return
-        
-        if dir == 1:
-            self.matrix = [list(row) for row in zip(*self.matrix[::-1])]
-        if dir == -1:
-            self.matrix = [list(row) for row in zip(*self.matrix)][::-1]
+    def transpose(self):
+        self.matrix = [list(row) for row in zip(*self.matrix)]
         self.width, self.height = self.height, self.width
 
-    def append_row(self, row_index: int = None, value=None):
+    def append_row(self, row_index: int = None, value = None):
         if row_index is None:
             row_index = self.height  # Default to appending to the end
         elif not (0 <= row_index <= self.height):  # Check if index is valid
@@ -77,7 +69,7 @@ class Matrix_2d:
             self.height -= 1
         else:
             print(f"Cannot remove row: Row index {row_index} is out of bounds.")
-    def fill_row(self, row_index: int = 0, value=None):
+    def fill_row(self, row_index: int = 0, value = None):
         if 0 <= row_index < self.height:
             self.matrix[row_index] = [self.default_value if value is None else value for _ in range(self.width)]
         else:
@@ -123,26 +115,54 @@ class Matrix_2d:
         
         return adjacent_tiles
 
+    def save_to_file(self, filename):
+        DATA = {
+            "width": self.width,
+            "height": self.height,
+            "default_value": self.default_value,
+            "matrix": self.matrix
+        }
+        with open(f"{filename}.json", 'w') as file:
+            json.dump(DATA, file, indent=4)
+    def load_from_file(self, filename):
+        try:
+            with open(f"{filename}.json", 'r') as file:
+                DATA = json.load(file)
+                self.width = DATA.get('width')
+                self.height = DATA.get('height')
+                self.default_value = DATA.get('default_value')
+                self.matrix = DATA.get('matrix')
+
+                if not isinstance(self.width, int) or self.width <= 0:
+                    raise ValueError(f"Invalid width: {self.width}")
+                if not isinstance(self.height, int) or self.height <= 0:
+                    raise ValueError(f"Invalid height: {self.height}")
+
+                if len(self.matrix) != self.height:
+                    raise ValueError(f"Matrix height {len(self.matrix)} does not match the expected height: {self.height}")
+                
+                for row in self.matrix:
+                    if len(row) != self.width:
+                        raise ValueError(f"Row length {len(row)} does not match the expected width: {self.width}")
+
+        except (FileNotFoundError, json.JSONDecodeError) as e:
+            self.reset()
+            print(f"Error loading file {filename}.json, reseting matrix to default settings: {e}")
+
+        except ValueError as e:
+            self.reset()
+            print(f"Invalid data: {e}\nReset matrix to default settings.")
+        
+        else:
+            print("File loaded into matrix successfully.")
+
 if __name__ == "__main__":
-    column_index = 1
-    row_index = 1
-    column_mover = 1
-    row_mover = 1
-    M = Matrix_2d(30, 30)
-    while True:
-        column_index += column_mover
-        row_index += row_mover
-        if (column_index >= M.width - 1 or column_index < 2):
-            column_mover *= -1
-        if (row_index >= M.width - 1 or row_index < 2):
-            row_mover *= -1
-        os.system("clear")
-        M.clear()
-        M.append_column(row_index, "|")
-        M.append_row(column_index, "=")
-        M.set_value(row_index, column_index, "O")
-        M.remove_column()
-        M.remove_row()
-        print(M.to_string())
-        M.print_details()
-        time.sleep(0.02)
+    M1 = Matrix_2d(20, 20, default_value=0)
+    M1.fill_row(row_index=3, value=1)
+    M1.save_to_file("matrix")
+
+    M2 = Matrix_2d()
+    M2.load_from_file("matrix")
+    M2.print_details()
+    if len(M2.matrix):
+        M2.print()

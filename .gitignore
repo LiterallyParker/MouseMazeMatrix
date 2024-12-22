@@ -48,3 +48,4 @@ Thumbs.db  # Windows
 
 # Others
 *.sqlite  # SQLite databases
+matrix.json
